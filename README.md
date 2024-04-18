@@ -1,6 +1,7 @@
 # Pokémon Memory Game
 
-Welcome to the Pokémon Memory Game! This interactive web game challenges players to match pairs of Pokémon cards to win. The game dynamically fetches Pokémon data from the [Pokémon API](https://pokeapi.co/), ensuring a unique experience every time you play. Built with React, this project demonstrates modern web application development practices.
+
+Welcome to the Pokémon Memory Game! This interactive web game challenges players to match pairs of Pokémon cards to win. The game utilizes data fetched from the [Pokémon API](https://pokeapi.co/), ensuring a diverse range of Pokémon characters appear each time you play. Built with React, this project showcases modern web application practices with an engaging gaming experience.
 
 ![Screenshot of Pokémon Memory Game](url-to-image-here) (Replace `url-to-image-here` with the actual URL of the game screenshot.)
 
